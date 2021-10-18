@@ -21,3 +21,29 @@ Question 10: Line 12 will print 3 as length. Length is a constant and
     is not re-assigned, so no error occurs.
 Question 11: This function returns discounted as [50, 100, 150]. Discounted
     is apparently not re-assigned when objects are appended to it.
+Question 12:
+A: student.name
+B: student["Grad Year"]
+C: student.greeting()
+D: student["Favorite Teacher"].name
+E: student.courseLoad[0]
+Question 13:
+A: '32'
+B: 1
+C: 3
+D: '3null'
+E: 4
+F: 0
+G: '3undefined'
+H: NaN
+Question 14:
+A: true
+B: true
+C: true
+D: false
+E: false
+F: true
+Question 15: == compares with type converesion and === does not
+Question 16: in file
+Question 17: the result is [2,4,6], because the callback multiplies numbers by 2
+    The new array contains each element of the original array multiplied by 2
