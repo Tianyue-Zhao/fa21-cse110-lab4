@@ -47,3 +47,6 @@ Question 15: == compares with type converesion and === does not
 Question 16: in file
 Question 17: the result is [2,4,6], because the callback multiplies numbers by 2
     The new array contains each element of the original array multiplied by 2
+Question 18: in file
+Question 19: the code prints 1, waits a second and then prints 2, 3, 4.
+    The output should be 1\n2\n3\n4
